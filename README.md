@@ -6,7 +6,7 @@ Análise desenvolvida no Power BI com foco nas campanhas de marketing em diferen
 ## 📸 Visão Geral do Dashboard
 
 ### Visão do Cliente
-![Visão do Cliente](imagens/visao-cliente.png)
+![Visão do Cliente](imagens/visão-cliente.png)
 
 **KPIs principais:**
 -Total de Clientes: 1.999

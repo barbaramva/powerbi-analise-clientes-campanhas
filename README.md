@@ -8,7 +8,7 @@ Análise desenvolvida no Power BI com foco nas campanhas de marketing em diferen
 ### Visão do Cliente
 ![Visão do Cliente](imagens/visão-cliente.png)
 
-**KPIs principais:**
+**KPIs principais:**  
 -Total de Clientes: 1.999  
 -Média de Salário Anual: 51,98K  
 -Total de Compras na Loja: 12K  

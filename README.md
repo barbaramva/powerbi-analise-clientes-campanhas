@@ -9,12 +9,12 @@ Análise desenvolvida no Power BI com foco nas campanhas de marketing em diferen
 ![Visão do Cliente](imagens/visão-cliente.png)
 
 **KPIs principais:**
--Total de Clientes: 1.999
--Média de Salário Anual: 51,98K
--Total de Compras na Loja: 12K
--Total de Compras na Web: 8.147
--Total de Compras com Desconto: 4.661
--Total de Compras via Catálogo: 5.270
+-Total de Clientes: 1.999  
+-Média de Salário Anual: 51,98K  
+-Total de Compras na Loja: 12K  
+-Total de Compras na Web: 8.147  
+-Total de Compras com Desconto: 4.661  
+-Total de Compras via Catálogo: 5.270  
 
 -**Clustered column chart (gráfico de colunas clusterizado):** utilizado para observamos o **Total de Clientes por Escolaridade** e **Total de Clientes por Estado Civil**  
 -**Slicer (segmentação de dados)**: utilizado para segmentar os dados por país
